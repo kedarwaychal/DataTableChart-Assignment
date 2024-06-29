@@ -9,3 +9,13 @@
 
 https://github.com/kedarwaychal/DataTableChart-Assignment/assets/119649315/6d2022e2-6183-47c0-86c7-aca2ccaf67bc
 
+Instruction For Adding Data in Table 
+1.Add all Details required for new Data.
+
+2To edit data click on edit icon fill correct information and click on edit button.
+
+3.To Delete Data Click on Delete icon insure you are deleting correct data.
+
+4.To Update chart you have to add new data or edit existing one.
+
+5.Chart shows details price as per product name into given axis
